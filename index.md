@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Register to our [Google groups page](https://groups.google.com/forum/#!forum/gp-id) to get course notifications via email.
+Register to our [Piazza page](piazza.com/iitj.ac.in/spring2022/csl7070) to get course notifications via email.
