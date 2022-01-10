@@ -10,6 +10,15 @@ permalink: /materials/
 
 John L. Hennessy and David A. Patterson. Computer Architecture : A Quantitative Approach; Fifth Edition; Morgan Kauffman.
 
+
+
+
+
+
+
+
+
+
 ## Additional Course Materials
 
 {% include image.html url="/_images/smruti.png" width=175 align="right" %}
