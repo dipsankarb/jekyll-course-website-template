@@ -12,7 +12,7 @@ John L. Hennessy and David A. Patterson. Computer Architecture : A Quantitative 
 
 ## Additional Course Materials
 
-{% include image.html url="/_images/smruit.png" width=175 align="right" %}
+{% include image.html url="/_images/smruti.png" width=175 align="right" %}
 
 
 * Smruti R. Sarangi. Advanced Computer Architecture. [Book Website](https://www.cse.iitd.ac.in/~srsarangi/advbook/index.html)
