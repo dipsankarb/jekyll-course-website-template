@@ -3,9 +3,9 @@ type: lecture
 date: 2022-01-05T8:00:00+4:30
 title: Lecture-1
 tldr: "Introduction to Computer Architeture, Basic Background"
-thumbnail: /static_files/presentations/ca.png
+thumbnail: /static_files/images/ca.png
 links: 
-    - url: /static_files/presentations/L1.pdf
+    - url: /static_files/pdfs/L1.pdf
       name: slides
 ---
 **Suggested Readings:**
