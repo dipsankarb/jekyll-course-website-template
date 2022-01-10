@@ -1,4 +1,4 @@
 ---
-date: 2018-10-03T10:00:00+3:30
+date: 2022-01-05T10:00:00+3:30
 ---
-Sample announcement, Please check out [here](/).
+Welcome to CSL7070 course on Computer Architecture.
