@@ -1,17 +1,15 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/lec.jpg
+date: 2022-01-05T8:00:00+4:30
+title: Lecture-1
+tldr: "Introduction to Computer Architeture, Basic Background"
+thumbnail: /static_files/presentations/ca.png
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/presentations/L1.pdf
       name: slides
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- [Moore's Law](http://pages.cs.wisc.edu/~markhill/restricted/electronics65_moore.pdf)
+- [Mudge 2001](http://pages.cs.wisc.edu/~markhill/restricted/computer01_power.pdf)
+- [Watch-Veritassium](https://www.youtube.com/watch?v=IgF3OX8nT0w)
+- [Watch-Podcast with David Patterson](https://www.youtube.com/watch?v=naed4C4hfAg)
