@@ -8,7 +8,7 @@ The tentative list of papers which we are going to focus on this semester:
 
 |    	| Fundamental Areas                                                                                                                                       	|                          	|
 |----	|---------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------	|
-|    	|                                                                          Paper                                                                          	|           Link           	|
+|    	|                                                                          **Paper**                                                                          	|           **Link**           	|
 |  1 	| G.Hinton, D.Sager, M.Upton, D.Boggs, D.Carmean, A.Kyker, P.Roussel, “The Microarchitecture of the Pentium 4 Processor,” Intel Technology Journal, 2001. 	| [Click](/papers/p1.pdf)  	|
 |  2 	| Dennis, Jack B. and Misunas, David P., "A preliminary architecture for a basic data-flow processor," In ISCA, 1977.                                     	| [Click](/papers/p2.pdf)  	|
 |  3 	| Burks, Goldstein, von Neumann, “Preliminary discussion of the logical design of an electronic computing instrument,” 1946.                              	| [Click](/papers/p3.pdf)  	|
