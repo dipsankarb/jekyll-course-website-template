@@ -6,7 +6,9 @@ permalink: /readinglist/
 
 The tentative list of papers which we are going to focus on this semester:
 
-{:class="table table-bordered"}
+
+<style>.my-red-bordered-table table { border: 2px solid red;  }</style>
+
 | Extra Slots for M.Tech. Executive Programmes |     |     |     |     |     |     |               |
 |----------------------------------------------|-----|-----|-----|-----|-----|-----|---------------|
 |                                              | Mon | Tue | Wed | Thu | Fri | Sat | Sun           |
