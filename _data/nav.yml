@@ -15,7 +15,7 @@ items:
   name: Assignments
   icon_class: fas fa-user-graduate
 
-- url: /reading/
+- url: /readinglist/
   name: Reading List
   icon_class: fas fa-list
 
