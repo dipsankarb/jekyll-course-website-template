@@ -23,3 +23,4 @@ The tentative list of papers which we are going to focus on this semester:
 | 4-5 PM                                       | I   | J   | I   | J   | J   | R   |               |
 | 5-6 PM                                       |     |     |     |     |     | S   |               |
 | 6-7:30 PM                                    | O   | P   | Q   | R   | S   |     |               |
+{:.mbtablestyle}
