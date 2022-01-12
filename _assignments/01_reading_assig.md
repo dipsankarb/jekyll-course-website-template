@@ -11,6 +11,6 @@ Presentation is an art and one of the most important communication skills for a 
 <br />
 Each student will have to give 20 minutes presentation on a chosen paper, followed by QnA session. The date of presentation will be pre-scheduled (will be annouced shortly; tentatively from the week starting 24th Jan) and once it is annouced, no date change request will be entertained. 
 <br />
-The paper will be allocated on FCFS basis. The list of papers are attached herewith.
+The paper will be allocated on FCFS basis. The list of papers are available in the [Reading List page](/readinglist/).
 <br />
 [Fill out here:](https://forms.gle/GPuaGoY6N27mHecV6)
