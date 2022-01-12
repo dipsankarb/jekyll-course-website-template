@@ -71,6 +71,7 @@ The tentative list of papers which we are going to focus on this semester:
 | 6 	| Fan Yao, Adnan Siraj Rakin, Deliang Fan. "DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips". USENIX Security 2020.                                                                	| [Click](https://www.usenix.org/conference/usenixsecurity20/presentation/yao)                   	|
 | 7 	| T. Moscibroda and O. Mutlu. "Memory performance attacks: denial of memory service in multi-core systems," USENIX Security Symposium 2007                                                                                            	| [Click](https://users.ece.cmu.edu/~omutlu/pub/mph_usenix_security07.pdf)                       	|
 | 8 	| Kaustav Goswami, Dip Sankar Banerjee, and Shirshendu Das. Towards Enhanced System Efficiency While Mitigating Row Hammer (accepted) at ACM Transactions on Architecture and Code Optimization (TACO) (2021).                        	| [Click](https://dl.acm.org/doi/abs/10.1145/3458749)                                            	|
-
 {:.mbtablestyle}
+
+
 <br />
