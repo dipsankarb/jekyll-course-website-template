@@ -22,6 +22,7 @@ The tentative list of papers which we are going to focus on this semester:
 | 11 	| P. Kongetira, A. Kathirgamar, and K. Olukotun, “Niagara: A 32-Way Multithreaded SPARC Processor,” Micro, 2005.                                          	| [Click](/papers/p11.pdf) 	|
 | 12 	| P. Chang, E. Hao, and Y.N. Patt, “Target Prediction for Indirect Jumps,” ISCA 1997.                                                                     	| [Click](/papers/p12.pdf) 	|
 | 13 	| Rakesh Kumar, Keith I Farkas, Norman P Jouppi, Parthasarathy Ranganathan, Dean M Tullsen, “Single-ISA heterogeneous multi-core architectures: The potential for processor power reduction,” MICRO 3003.| [Click](https://ieeexplore.ieee.org/abstract/document/1253185) 	|
+| 14 	| Jouppi et al., “In-Datacenter Performance Analysis of a Tensor Processing Unit”, ISCA 2017.| [Click](https://arxiv.org/pdf/1704.04760.pdf) 	|
 {:.mbtablestyle}
 <br />
 
@@ -70,7 +71,7 @@ The tentative list of papers which we are going to focus on this semester:
 | 5 	| Sanghyun Hong, Pietro Frigo, Yiğitcan Kaya, Cristiano Giuffrida, Tudor Dumitraş. "Terminal Brain Damage: Exposing the Graceless Degradation in Deep Neural Networks Under Hardware Fault Attacks". USENIX Security 2019.            	| [Click](https://www.usenix.org/conference/usenixsecurity19/presentation/hong)                  	|
 | 6 	| Fan Yao, Adnan Siraj Rakin, Deliang Fan. "DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips". USENIX Security 2020.                                                                	| [Click](https://www.usenix.org/conference/usenixsecurity20/presentation/yao)                   	|
 | 7 	| T. Moscibroda and O. Mutlu. "Memory performance attacks: denial of memory service in multi-core systems," USENIX Security Symposium 2007                                                                                            	| [Click](https://users.ece.cmu.edu/~omutlu/pub/mph_usenix_security07.pdf)                       	|
-| 8 	| Kaustav Goswami, Dip Sankar Banerjee, and Shirshendu Das. Towards Enhanced System Efficiency While Mitigating Row Hammer (accepted) at ACM Transactions on Architecture and Code Optimization (TACO) (2021).                        	| [Click](https://dl.acm.org/doi/abs/10.1145/3458749)                                            	|
+| 8 	| Kaustav Goswami, Dip Sankar Banerjee, and Shirshendu Das. Towards Enhanced System Efficiency While Mitigating Row Hammer at ACM Transactions on Architecture and Code Optimization (TACO) (2021).                        	| [Click](https://dl.acm.org/doi/abs/10.1145/3458749)                                            	|
 {:.mbtablestyle}
 
 
