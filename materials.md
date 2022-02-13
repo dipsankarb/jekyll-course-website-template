@@ -24,6 +24,7 @@ John L. Hennessy and David A. Patterson. Computer Architecture : A Quantitative 
 * John Shen and Mikko Lipasti, Modern Processor Design: Fundamentals of Superscalar Processors, McGraw-Hill, 2005.
 * Mark D. Hill, Norman P. Jouppi, and Gurindar S. Sohi Readings in Computer Architecture Morgan Kaufmann Publishers, 2000.
 * David A. Patterson and John L. Hennessy, Computer Organization and Design: The Hardware and Software Interface, (CS/ECE 552 text)
+* Sarah L. Harris, David M. Harris, Digital Design and Computer Architecture (RISC-V Edition). Morgan Kaufmann.[Book Website](https://www.elsevier.com/books/digital-design-and-computer-architecture/harris/978-0-12-820064-3)
 * Smruti R. Sarangi. Advanced Computer Architecture. [Book Website](https://www.cse.iitd.ac.in/~srsarangi/advbook/index.html)
 
 ## Online References
