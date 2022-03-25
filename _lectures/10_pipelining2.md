@@ -10,9 +10,9 @@ links:
 ---
 **Suggested Readings:**
 
-- [Blem 2013](https://dipsankarb.github.io/wi22-csl7070/pdfs/blem13.pdf)
-- [Blog on Blem 2013](https://parvmor.github.io/2019/04/08/risc-vs-cisc/)
-- [Colwell 1985](https://dipsankarb.github.io/wi22-csl7070/pdfs/colwell85.pdf)
-- Chapter 1,2 : Hennessey , Patterson: Computer Organization and Design book.
-- [Watch Jim Keller](https://www.youtube.com/watch?v=yTMRGERZrQE)
-- [Watch Jim Keller on Abstractions](https://www.youtube.com/watch?v=1CSeY10zbqo)
+- [Sohi 1995](https://dipsankarb.github.io/wi22-csl7070/pdfs/sohi.pdf)
+- [CS752 Wisconsin](https://pages.cs.wisc.edu/~sinclair/courses/cs752/fall2020/handouts/lecture/04-pipeline.pdf)
+- [Watch Onur Mutlu Lecture](https://www.youtube.com/watch?v=9Hj48Q_HCQY)
+- Chapter 7: Harris and Harris, Digital Design and Computer Architecture.
+- Chapter 2,4 : Hennessey , Patterson: Computer Organization and Design book.
+- Appendix A : Hennessey , Patterson: Computer Architecture, A quantitative approach.

@@ -13,7 +13,7 @@ links:
 - [Sohi 1995](https://dipsankarb.github.io/wi22-csl7070/pdfs/sohi.pdf)
 - [Jouppi 1997](https://dipsankarb.github.io/wi22-csl7070/pdfs/jouppi.pdf)
 - [CS152 Berkeley](https://inst.eecs.berkeley.edu//~cs152/sp21/lectures/L02-SimpleImps.pdf)
-- [Watch Onur Mutlu Lecture](https://www.youtube.com/watch?v=qJmTZwzf1L4)
+- [Watch Onur Mutlu Lecture](https://www.youtube.com/watch?v=h_c7h5mLagU)
 - Chapter 7: Harris and Harris, Digital Design and Computer Architecture.
 - Chapter 2,4 : Hennessey , Patterson: Computer Organization and Design book.
-- Appendix A : Hennessey , Patterson: Computer Architecture, A quantitative approach.
+- Chapter 3 : Hennessey , Patterson: Computer Architecture, A quantitative approach.
