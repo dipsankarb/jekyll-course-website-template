@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-01-05T8:00:00+4:30
+date: 2022-01-05T8:00:00+4:30
 title: Lecture-1
 tldr: "Introduction to Computer Architeture, Basic Background"
 thumbnail: /_images/ca.png
