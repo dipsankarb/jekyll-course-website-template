@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 2022-01-12T00:00:00+5:30
+date: 2023-01-11T00:00:00+5:30
 title: 'Reading and Presentations'
 due_event: 
     type: due
-    date: 2022-01-17T23:59:00+5:30
+    date: 2023-01-17T23:59:00+5:30
     description: 'Please fill out your choices for presentation topic'
 ---
 Presentation is an art and one of the most important communication skills for a researcher that can be developed over sincere practice. Methodical, concise and engaging presentation makes a big difference in terms of accepatability of your research when it comes to the question of getting acknowledged by the top-tier community.
