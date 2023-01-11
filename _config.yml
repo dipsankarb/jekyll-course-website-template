@@ -1,9 +1,9 @@
 # Site settings
 course_name: CSL7070 Computer Architecture
 course_description: "In this course we shall learn the basic principles of computer architectures. Computer architecture is the science and art of selecting and interconnecting hardware components to create a computer that meets functional, performance and cost goals. This course introduces the basic hardware structure of a modern programmable computer, including the basic laws underlying performance evaluation."
-course_semester: "Semester II: 2021-22"
+course_semester: "Semester II: 2022-23"
 
-baseurl: "/wi22-csl7070" # the subpath of your site, e.g. /blog/
+baseurl: "/wi23-csl7070" # the subpath of your site, e.g. /blog/
 url: "http://dipsankarb.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Department of CSE, IIT Jodhpur"
