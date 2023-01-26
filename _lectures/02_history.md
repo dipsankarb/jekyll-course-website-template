@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-01-13T8:00:00+4:30
+date: 2023-01-07T8:00:00+4:30
 title: Lecture-2
 tldr: "Foundation Concepts, History"
 thumbnail: /_images/ca.png
