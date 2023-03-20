@@ -2,7 +2,7 @@
 type: lecture
 date: 2023-02-13T8:00:00+4:30
 title: Lecture-6 
-tldr: "Microarchitecture-2"
+tldr: "Microarchitecture-1"
 thumbnail: /_images/ca.png
 links: 
     - url: /pdfs/L6.pdf

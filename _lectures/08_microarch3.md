@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2023-02-20T8:00:00+4:30
-title: Lecture-7 
-tldr: "Microarchitecture-2"
+date: 2023-02-27T8:00:00+4:30
+title: Lecture-8 
+tldr: "Microarchitecture-3"
 thumbnail: /_images/ca.png
 links: 
-    - url: /pdfs/L7.pdf
+    - url: /pdfs/L8.pdf
       name: slides 
 ---
 **Suggested Readings:**
